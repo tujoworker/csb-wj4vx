@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "https://tujoworker.github.io/csb-wj4vx/static/js/main.83be8ded.chunk.js",
+    "main.js.map": "https://tujoworker.github.io/csb-wj4vx/static/js/main.83be8ded.chunk.js.map",
+    "runtime-main.js": "https://tujoworker.github.io/csb-wj4vx/static/js/runtime-main.4c4a42e3.js",
+    "runtime-main.js.map": "https://tujoworker.github.io/csb-wj4vx/static/js/runtime-main.4c4a42e3.js.map",
+    "static/css/2.15d5d6b5.chunk.css": "https://tujoworker.github.io/csb-wj4vx/static/css/2.15d5d6b5.chunk.css",
+    "static/js/2.5304ab3b.chunk.js": "https://tujoworker.github.io/csb-wj4vx/static/js/2.5304ab3b.chunk.js",
+    "static/js/2.5304ab3b.chunk.js.map": "https://tujoworker.github.io/csb-wj4vx/static/js/2.5304ab3b.chunk.js.map",
+    "index.html": "https://tujoworker.github.io/csb-wj4vx/index.html",
+    "static/css/2.15d5d6b5.chunk.css.map": "https://tujoworker.github.io/csb-wj4vx/static/css/2.15d5d6b5.chunk.css.map",
+    "static/js/2.5304ab3b.chunk.js.LICENSE.txt": "https://tujoworker.github.io/csb-wj4vx/static/js/2.5304ab3b.chunk.js.LICENSE.txt",
+    "static/media/dnb-ui-core.min.css": "https://tujoworker.github.io/csb-wj4vx/static/media/DNBMono-Regular.44317dd8.ttf",
+    "static/media/dnb-ui-components.min.css": "https://tujoworker.github.io/csb-wj4vx/static/media/DNBMono-Skeleton-Regular.736b2343.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c4a42e3.js",
+    "static/css/2.15d5d6b5.chunk.css",
+    "static/js/2.5304ab3b.chunk.js",
+    "static/js/main.83be8ded.chunk.js"
+  ]
+}
